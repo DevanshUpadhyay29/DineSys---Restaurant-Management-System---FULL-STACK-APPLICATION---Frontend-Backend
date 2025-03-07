@@ -1,0 +1,2 @@
+# DineSys---Restaurant-Management-System---FULL-STACK-APPLICATION---Frontend-Backend
+This repository contains the source code for the "Restaurant Management System" project. Built with Spring Boot (backend) and React.js(frontend), it features role-based access, CRUD operations, order management, and JWT authentication. Includes project files, Postman responses, UI flow diagrams, and documentation.
